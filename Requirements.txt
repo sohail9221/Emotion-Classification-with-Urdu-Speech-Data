@@ -7,3 +7,5 @@ plotly
 scikit-learn
 IPython
 pickle-mixin
+keras
+tensorflow  
